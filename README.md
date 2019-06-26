@@ -3,7 +3,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Travis][travis-image]][travis-url]
  
-* testing the webhook
+
 * Works with node gte 6.x.x
 * Typeix has dependency injection inspired by Angular 2
 

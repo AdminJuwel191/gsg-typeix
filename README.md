@@ -35,5 +35,4 @@
 [demo-app]: https://github.com/igorzg/typeix-demo-app
 [docs]: https://igorivanovic.gitbooks.io/typeix
 
-
- 
+Just for testing

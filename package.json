@@ -5,7 +5,7 @@
         "aws-lambda": "^0.1.2",
         "aws-lambda-create-request-response": "^0.1.13",
         "reflect-metadata": "^0.1.10",
-        "ws": "^3.2.0"
+        "ws": "^7.4.6"
     },
     "description": "Typescript API for RESTful Services for (Node.js)",
     "main": "build/index.js",
